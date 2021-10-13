@@ -9,7 +9,12 @@ public class programa {
 		System.out.println(  sum(arr) );
 
 		System.out.println(  "Hola Mundo" );
-
+		
+		System.out.println(  "Prueba de ruta con un nuevo branch para Git" );
+		
+		clase2prueba.metodoprueba();
+		
+		
 	}
 	
 	public static int sum(int[] arr) {
