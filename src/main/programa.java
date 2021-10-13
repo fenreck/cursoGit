@@ -10,8 +10,16 @@ public class programa {
 
 		System.out.println(  "Hola Mundo" );
 		
+
 		
 		entradaDatos.entrada();
+
+
+		System.out.println(  "Prueba de ruta con un nuevo branch para Git" );
+		
+		clase2prueba.metodoprueba();
+		
+		
 
 	}
 	
