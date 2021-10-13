@@ -9,8 +9,14 @@ public class programa {
 		System.out.println(  sum(arr) );
 
 		System.out.println(  "Hola Mundo" );
+		
+		
+		entradaDatos.entrada();
 
 	}
+	
+	
+	
 	
 	public static int sum(int[] arr) {
 		int contador = 0;
@@ -26,7 +32,7 @@ public class programa {
 			return 0;
 		}
 		
-		if (con < arr.length ) {
+		if (con < arr.length ) {  
 	
 			sumaTotal += arr [con++];
 		//	System.out.println(  sumaTotal );
